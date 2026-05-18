@@ -1,0 +1,5791 @@
+{
+    "Nfl040": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nfl046": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nfl048": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nfl050": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl072": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ngl090": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml043": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml087": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nml089": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal068": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl325": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael442": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael444": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael446": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael508": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael510": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael512": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl24": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl88": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "gzl42": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fal012": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "FBL032": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fcl088": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FDL026": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl004": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl006": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl063": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl090": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl005": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nbl076": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nbl081": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nbl086": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nbl095": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nbl098": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl004": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl006": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl008": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ncl010": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl012": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ncl014": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl022": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ncl030": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ncl035": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ncl044": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl048": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl050": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ncl051": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl053": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ncl056": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ncl063": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl064": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl069": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ncl076": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl079": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ncl083": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl085": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl009": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl012": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "ndl013": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ndl018": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl021": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ndl022": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl025": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ndl027": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ndl028": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Ndl031": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl033": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl035": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl037": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl039": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl040": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nfl032": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nfl052": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ngl023": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ngl043": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ngl049": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ngl053": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ngl074": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ngl076": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ngl092": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ngl094": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ngl096": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nhl013": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nhl015": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil002": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil006": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nil008": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nil010": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil021": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil025": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil027": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil033": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nil035": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil037": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil043": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nil045": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil048": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nil052": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil054": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nil056": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil060": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nll016": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll018": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll020": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "nll022": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "nll026": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll030": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "nll032": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "NLL034": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll042": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll046": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll060": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll062": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "NLL067": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll069": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll072": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll076": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll084": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nll094": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nll098": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nll102": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll104": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll106": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml002": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml006": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml008": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nml014": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml018": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nml030": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nml034": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml085": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Adl381": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl387": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl101": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl108": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Abl112": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl116": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl118": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl121": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl123": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl127": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Abl129": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl201": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl243": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl245": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl247": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl249": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl251": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl253": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl264": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl333": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl344": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Adl375": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Aal044": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal046": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal048": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal052": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal056": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal062": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal064": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal066": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal078": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal086": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal088": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal090": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal094": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal096": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal099bis": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael477": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl135": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl137": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl139": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Abl141": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl191": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl219": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl223": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl281": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl283": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl287": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl319": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Adl391": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael435": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael448": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael481": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl362": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal010": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal012": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Abl143": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl145": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl151": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl153": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl155": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl147": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl157": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Abl161": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Abl163": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl165": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Abl167": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl168": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Abl171": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl175": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl177": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl179": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl185": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Abl195": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Acl215": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl217": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl221": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Acl235": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl239": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl241": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl259": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl271": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl279": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl299": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal004": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl311": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl321": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl329": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl335": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl340": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl346": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Adl348": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl350": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Adl356": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Adl366": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl371": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael413": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael419": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael425": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael431": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael433": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael452": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael467": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael471": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal006": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ael517": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael523": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael525": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Aal008": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "gzl56": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl08": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl62": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl66": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "gzl22": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl70": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "gzl10": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl80": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl84": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl86": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl32": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl34": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl36": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl54": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal232": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal010": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Gal016": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Gal025": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal045": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal047": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Gal049": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal043": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal006": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal058": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal230": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal152": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fal020": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fal024": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FAL036": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FAL038": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FAL042": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FAL044": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fal050": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FAL054": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fal064": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fal072": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fal090": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fal100": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl002": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl004": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fbl006": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl010": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FBL012": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll019": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll021": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl022": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl024": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll023": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl036": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl038": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl044": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl048": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl054": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fbl056": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "FBL062": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl064": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl068": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl072": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fbl074": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fbl076": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fbl080": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fbl088": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fbl090": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fbl092": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl094": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl098": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll035": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll037": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll039": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fcl010": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fcl012": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fcl014": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FCL018": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll041": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fcl024": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fcl028": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fcl030": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fcl032": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fcl034": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fcl036": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fcl038": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fll043": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fcl048": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fcl050": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FCL052": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "FCL066": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fcl070": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fcl076": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fcl080": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fcl090": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fcl094": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fcl096": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fcl098": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fel002": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fel016": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fel018": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fel024": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fel030": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fel034": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fel052": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fel064": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fel068": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fel070": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fel072": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fel082": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fel084": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fel086": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fel088": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fel096": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fel100": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FFL002": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FFL004": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FFL006": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FFL008": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ffl010": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ffl014": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ffl016": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FFL032": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ffl066": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ffl078": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ffl082": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ffl100": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fdl002": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fdl020": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fll065": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fdl028": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fdl030": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fdl054": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll083": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl002": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gcl073": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ggl024": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl052": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl060": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl062": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ggl034": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ggl074": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl076": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl078": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ggl088": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl036": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl008": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl010": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl012": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl014": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll087": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl005": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll091": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl042": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl047": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fgl051": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl055": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl068": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl072": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl078": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl030": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fhl032": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl034": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fhl038": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl040": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fhl042": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fhl064": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl066": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl070": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl072": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl074": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl076": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl078": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl080": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl082": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fhl084": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl086": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl088": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl090": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fhl092": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl094": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl096": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl098": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fhl100": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll142": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fil062": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fml010": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fml020": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fil088": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fil094": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml067": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll024": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nel012": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nfl034": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl086": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl098": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nml045": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml047": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Acl285": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Gal216": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Gal218": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "FAL022": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fdl062": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Gdl100": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Ggl090": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ncl027": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ncl071": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl100": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nel008": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nel010": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nfl036": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml039": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl193": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl377": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael475": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl183": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal062": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ffl062": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ffl096": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "FDL016": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FDL022": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl002": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nbl080": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nel005": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nfl042": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nfl044": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll038": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll040": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll048": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll050": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "NLL052": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll056": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll058": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nll088": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "NML032": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml051": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml063": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml065": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Abl189": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl203": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl263": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl331": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl337bis": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael521": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl68": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl52": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal033": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl030": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ffl042": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ggl008": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl042": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl044": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl035": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl020": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll089": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nal020": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal022": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nal037": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal044": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nal047": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nal066": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal073": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nal075": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal077": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nal080": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal082": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal084": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nal088": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nal090": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nal052": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal099": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nbl001": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nbl007": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nbl010": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nbl013": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nbl015": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl022": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl025": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nbl031": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nfl054": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ngl002": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "NGL010": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ngl062": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ngl068": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ngl084": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nhl009": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil031": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil080": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nil084": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Adl301": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael496": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl20": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl28": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Gal240": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal039": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal185": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "FBL026": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl028": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fcl022": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fcl040": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fcl044": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FCL058": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FCL074": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ffl080": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fdl014": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "FDL036": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Gcl003": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Gdl037": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl036": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl068": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll085": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fgl018": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl029": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fgl057": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fil004": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll122": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fil052": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fil070": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "newl053": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal005": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nal018": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nal025": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nal033": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nal035": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal049": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal057": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nal058": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal064": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal070": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal086": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nal091": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "nal095": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal097": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nbl004": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nbl006": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl017": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nbl019": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl028": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nbl030": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl034": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nfl063": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "nfl070": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "nfl072": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ngl008": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ngl013": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ngl017": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Ngl019": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ngl021": {
+        "pigment network": "atypical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl027": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl039": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl055": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl064": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ngl100": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nil066": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nil070": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil076": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil078": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nil088": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nil096": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil100": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil103": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nll002": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nll004": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nml022": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nml077": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nml079": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Adl305": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Adl313": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ael490": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ael492": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ael504": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "gzl04": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "gzl16": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "gzl76": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl50": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Gal108": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal113": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal146": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Gal257": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal211": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "FAL066": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fal078": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "FBL046": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fbl050": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "FBL058": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll027": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fbl082": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fcl026": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Fcl060": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fll045": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Fcl100": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fel098": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "FFL020": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ffl092": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ffl094": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fll071": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fdl056": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Gbl009": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Gcl094": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Gdl014": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Gdl021": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Gdl025": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Ggl050": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl058": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll097": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Fgl082": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fgl083": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fhl046": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fll108": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fil006": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll116": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fll118": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fil032": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fll132": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "newl014": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "newl032": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "newl043": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "newl047": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "newl049": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "newl051": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "newl059": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nal002": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nal008": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl059": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nbl060": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl063": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl065": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl004": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "NGL025": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl041": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl066": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Ngl088": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil064": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nil068": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nil082": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nil090": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nil093": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "nll014": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nml024": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nml073": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Aal002": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Aal002bis": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ael494": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "gzl12": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl26": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Gal220": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Gal262": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Gal209": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "FAL006": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "FAL094": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "FBL020": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "FCL056": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fll047": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "FCL084": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fcl092": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "FFL068": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Fll069": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Gbl014": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Gcl058": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Gdl012": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Gdl023": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Gdl034": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Gdl089": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ggl040": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl054": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fgl006": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Fgl061": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fil010": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fll126": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Fll128": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fll130": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fll136": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "newl045": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "newl055": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl037": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl040": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl044": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl048": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "NBL049": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl054": {
+        "pigment network": "atypical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl074": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl006": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl057": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl015": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nhl017": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nil062": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "Nil086": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nml020": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nml081": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ael498": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael514": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "gzl64": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "present"
+    },
+    "gzl78": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "FCL054": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fcl068": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "FDL052": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Gcl039": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Gcl052": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fgl044": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fil008": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fil040": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "newl036": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "NBL041": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nbl046": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fcl016": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nbl042": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "ndl085": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nfl074": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nml004": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml071": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "gzl82": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fel092": {
+        "pigment network": "typical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ndl075": {
+        "pigment network": "atypical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nbl088": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nbl100": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl020": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ncl032": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ncl078": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ncl093": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ncl095": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl046": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl050": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ndl052": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl054": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl056": {
+        "pigment network": "atypical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ndl058": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ndl060": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ndl061": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "NDL063": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ndl068": {
+        "pigment network": "atypical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl069": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ndl071": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ndl074": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ndl079": {
+        "pigment network": "atypical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ndl081": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ndl083": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ngl029": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl031": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl033": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl037": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl060": {
+        "pigment network": "atypical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ngl078": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nil004": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nil023": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nil029": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nil041": {
+        "pigment network": "atypical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nil058": {
+        "pigment network": "atypical",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nll100": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml010": {
+        "pigment network": "atypical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml012": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nml016": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Nml049": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "NML092": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Nml094": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Nml096": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ael421": {
+        "pigment network": "atypical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Acl207": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Acl225": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Acl295": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl358": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Adl395": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl399": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael401": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael405": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael407": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael465": {
+        "pigment network": "atypical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ael484": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl58": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "gzl14": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Gal191": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Gal222": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Gal238": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "FAL070": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fbl018": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fbl040": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "FBL042": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fel038": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fel074": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fel080": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Ffl034": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ffl084": {
+        "pigment network": "atypical",
+        "streaks": "regular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Fll077": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Ggl026": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "Ggl010": {
+        "pigment network": "absent",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl023": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl037": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    },
+    "Fgl074": {
+        "pigment network": "typical",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Fgl087": {
+        "pigment network": "typical",
+        "streaks": "regular",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "newl030": {
+        "pigment network": "absent",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "newl034": {
+        "pigment network": "atypical",
+        "streaks": "irregular",
+        "dots and globules": "irregular",
+        "blue-whitish veil": "present",
+        "regression structures": "absent"
+    },
+    "newl039": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "regular",
+        "blue-whitish veil": "absent",
+        "regression structures": "absent"
+    },
+    "Adl389": {
+        "pigment network": "absent",
+        "streaks": "absent",
+        "dots and globules": "absent",
+        "blue-whitish veil": "absent",
+        "regression structures": "present"
+    }
+}
