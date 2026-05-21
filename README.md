@@ -1,10 +1,16 @@
-我们设计了一个一个基于大语言模型的医学图像分析系统，专注于皮肤疾病诊断，特别是痣(nevus)和黑色素瘤(melanoma)的区分。本项目实现了一个创新的两阶段训练框架，首先进行皮肤病变概念预测（提取关键临床特征），然后基于这些特征进行疾病分类，模拟皮肤科医生的诊断思路。
+English | [中文](README_zh.md)
 
-## 项目概览
+---
+
+# Ex-LLaVA: Explainable Medical Image Analysis via Large Language Model
+
+We designed a medical image analysis system based on large language models, focusing on skin disease diagnosis — particularly the distinction between nevus and melanoma. This project implements an innovative two-stage training framework: first performing skin lesion concept prediction (extracting key clinical features), then conducting disease classification based on these features, mimicking the diagnostic reasoning of dermatologists.
+
+## Project Overview
 
 ![architecture](asset/architecture.png)
 
-## 安装环境
+## Environment Setup
 
 ```
 pip install torch==2.1.0+cu121 torchaudio==2.1.0+cu121 torchvision==0.16.0+cu121 \
@@ -15,38 +21,38 @@ pip install -r requirements.txt
 
 ------
 
-## 目录结构
+## Directory Structure
 
 ```
 LLaVA-Med/
-├── evaluate.py          # 模型评估脚本
-├── evaluate.sh          # 评估执行脚本
-├── finetune/            # 微调相关模块
-│   ├── constants.py     # 常量定义
-│   ├── dataset.py       # 数据集处理
-│   ├── evaluation.py    # 评估工具
-│   └── trainer.py       # 训练器实现
-├── finetune.sh          # 微调执行脚本
-├── finetune_llava_med.py # 微调主入口
-├── inference.py         # 推理脚本
-├── llava/               # 核心模型代码
-│   ├── model/           # 模型架构实现
-│   ├── serve/           # 服务相关代码
-│   └── utils.py         # 工具函数
-├── merge_lora_weights.py # LoRA权重合并脚本
-├── merge_weights.sh     # 权重合并执行脚本
-└── run_inference.sh     # 推理执行脚本
+├── evaluate.py          # Model evaluation script
+├── evaluate.sh          # Evaluation execution script
+├── finetune/            # Fine-tuning modules
+│   ├── constants.py     # Constant definitions
+│   ├── dataset.py       # Dataset processing
+│   ├── evaluation.py    # Evaluation utilities
+│   └── trainer.py       # Trainer implementation
+├── finetune.sh          # Fine-tuning execution script
+├── finetune_llava_med.py # Fine-tuning main entry point
+├── inference.py         # Inference script
+├── llava/               # Core model code
+│   ├── model/           # Model architecture implementation
+│   ├── serve/           # Serving-related code
+│   └── utils.py         # Utility functions
+├── merge_lora_weights.py # LoRA weight merging script
+├── merge_weights.sh     # Weight merging execution script
+└── run_inference.sh     # Inference execution script
 ```
 
-## 数据集
+## Dataset
 
-### 图像数据
-- 位置：`/root/autodl-tmp/data/Derm7pt`
-- 包含Derm7pt皮肤病变数据集的图像文件
+### Image Data
+- Location: `/root/autodl-tmp/data/Derm7pt`
+- Contains image files from the Derm7pt skin lesion dataset
 
-### 概念阶段数据
-- 训练集：`/root/autodl-tmp/data/derm7pt_concepts_train_dataset.json`
-- 测试集：`/root/autodl-tmp/data/derm7pt_concepts_test_dataset.json`
+### Concept Stage Data
+- Training set: `/root/autodl-tmp/data/derm7pt_concepts_train_dataset.json`
+- Test set: `/root/autodl-tmp/data/derm7pt_concepts_test_dataset.json`
 
 ```
 clinical_concepts_mapping={
@@ -58,9 +64,7 @@ clinical_concepts_mapping={
 }
 ```
 
-
-
-#### 数据格式
+#### Data Format
 ```json
 {
     "image": "/root/autodl-tmp/data/Derm7pt/{image_id}.jpg",
@@ -81,7 +85,7 @@ clinical_concepts_mapping={
 }
 ```
 
-#### 概念输出格式
+#### Concept Output Format
 ```json
 <BEGIN_OUTPUT>
 {
@@ -109,17 +113,15 @@ clinical_concepts_mapping={
 <END_OUTPUT>
 ```
 
-### 疾病阶段数据
-- 训练集：`/root/autodl-tmp/data/derm7pt_concepts_train_dataset.json`
-- 测试集：`/root/autodl-tmp/data/derm7pt_disease_test_dataset.json`
+### Disease Stage Data
+- Training set: `/root/autodl-tmp/data/derm7pt_concepts_train_dataset.json`
+- Test set: `/root/autodl-tmp/data/derm7pt_disease_test_dataset.json`
 
 ```
 clinical_class_mapping={0: "nevus", 1: "melanoma"}
 ```
 
-
-
-#### 数据格式
+#### Data Format
 ```json
 {
     "image": "/root/autodl-tmp/data/Derm7pt/{image_id}.jpg",
@@ -140,7 +142,7 @@ clinical_class_mapping={0: "nevus", 1: "melanoma"}
 }
 ```
 
-#### 疾病输出格式
+#### Disease Output Format
 ```json
 <BEGIN_OUTPUT>
 {
@@ -152,103 +154,101 @@ clinical_class_mapping={0: "nevus", 1: "melanoma"}
 <END_OUTPUT>
 ```
 
-## 模型架构
+## Model Architecture
 
-### 系统组件
-- **视觉编码器**：CLIP ViT-Large (patch14-336)，用于提取医学图像特征
-- **语言模型**：经过LoRA微调得到的llava-med-concepts和llava-med-disease，处理文本和视觉特征
-- **连接层**：将视觉特征投影到语言模型的嵌入空间
+### System Components
+- **Vision Encoder**: CLIP ViT-Large (patch14-336), used for extracting medical image features
+- **Language Model**: LoRA fine-tuned llava-med-concepts and llava-med-disease, processing text and visual features
+- **Projection Layer**: Projects visual features into the language model's embedding space
 
-### 基础模型
-- CLIP模型：`/root/autodl-tmp/model/clip-vit-large-patch14-336`
+### Base Model
+- CLIP model: `/root/autodl-tmp/model/clip-vit-large-patch14-336`
 
-### 微调后模型
-- 概念阶段模型：`/root/autodl-tmp/model/llava-med-concepts`
-- 疾病阶段模型：`/root/autodl-tmp/model/llava-med-disease`
+### Fine-tuned Models
+- Concept stage model: `/root/autodl-tmp/model/llava-med-concepts`
+- Disease stage model: `/root/autodl-tmp/model/llava-med-disease`
 
+## Usage
 
+### 1. Model Fine-tuning
 
-## 使用方法
-
-### 1. 模型微调
-
-#### 执行微调
+#### Run Fine-tuning
 
 ```bash
 cd /root/LLaVA-Med
 
-# 概念阶段微调（学习皮肤病变特征）
+# Concept stage fine-tuning (learn skin lesion features)
 bash finetune.sh concepts
 
-# 疾病阶段微调（学习疾病分类）
+# Disease stage fine-tuning (learn disease classification)
 bash finetune.sh disease
 
-# 运行两个阶段的微调（概念+疾病）
+# Run both stages (concepts + disease)
 bash finetune.sh both
 ```
 
-#### 自定义微调参数
+#### Custom Fine-tuning Parameters
 
-微调脚本支持多种参数配置，可以通过修改finetune.sh文件中的变量进行调整：
+The fine-tuning script supports various parameter configurations, adjustable by modifying variables in `finetune.sh`:
 
-- **数据路径**：
-  - 基础模型：`/root/autodl-tmp/model/llava-med`
-  - CLIP模型：`/root/autodl-tmp/model/clip-vit-large-patch14-336`
-  - 图像文件夹：`/root/autodl-tmp/data/Derm7pt`
-  - 训练/测试数据：自动根据任务类型选择对应的JSON文件
+- **Data Paths**:
+  - Base model: `/root/autodl-tmp/model/llava-med`
+  - CLIP model: `/root/autodl-tmp/model/clip-vit-large-patch14-336`
+  - Image folder: `/root/autodl-tmp/data/Derm7pt`
+  - Training/test data: automatically selected based on task type
 
-#### 微调输出
+#### Fine-tuning Output
 
-微调完成后，每个阶段的LoRA权重会保存在以下位置：
-- 概念阶段：`/root/autodl-tmp/output_concepts`
-- 疾病阶段：`/root/autodl-tmp/output_disease`
+After fine-tuning, LoRA weights for each stage are saved at:
+- Concept stage: `/root/autodl-tmp/output_concepts`
+- Disease stage: `/root/autodl-tmp/output_disease`
 
-每个输出目录包含按轮次组织的权重文件，如epoch1, epoch2等，便于选择最佳模型进行评估。
+Each output directory contains weight files organized by epoch (e.g., epoch1, epoch2), making it easy to select the best model for evaluation.
 
-### 2. 权重合并
+### 2. Weight Merging
 
-将LoRA权重与基础模型合并，便于部署使用：
+Merge LoRA weights with the base model for easier deployment:
 
 ```bash
 cd /root/LLaVA-Med
 bash merge_weights.sh
 ```
 
-此脚本会自动合并两个阶段的LoRA权重，并保存到以下路径：
-- 概念阶段模型：`/root/autodl-tmp/model/llava-med-concepts`
-- 疾病阶段模型：`/root/autodl-tmp/model/llava-med-disease`
+This script automatically merges LoRA weights from both stages and saves them to:
+- Concept stage model: `/root/autodl-tmp/model/llava-med-concepts`
+- Disease stage model: `/root/autodl-tmp/model/llava-med-disease`
 
-### 3. 模型评估
+### 3. Model Evaluation
 
-我们提供了全面的模型评估功能，支持对概念预测和疾病分类两个阶段的模型进行详细评估。评估过程会计算各种性能指标，并将结果保存为结构化的JSON文件，方便进一步分析。
+We provide comprehensive model evaluation capabilities, supporting detailed assessment of both concept prediction and disease classification models. The evaluation process calculates various performance metrics and saves results as structured JSON files for further analysis.
 
-#### 评估功能概述
+#### Evaluation Overview
 
-- **概念预测评估**：计算5个皮肤病变特征的预测准确率，包括：
-  - 色素网络(pigment network)
-  - 条纹(streaks)
-  - 点和球(dots and globules)
-  - 蓝白色面纱(blue-whitish veil)
-  - 退行性结构(regression structures)
-- **疾病分类评估**：计算良恶性肿瘤(nevus/melanoma)分类的准确率
+- **Concept Prediction Evaluation**: Computes prediction accuracy for 5 skin lesion features:
+  - Pigment network
+  - Streaks
+  - Dots and globules
+  - Blue-whitish veil
+  - Regression structures
+- **Disease Classification Evaluation**: Computes classification accuracy for nevus vs. melanoma
 
-#### 执行评估
+#### Run Evaluation
 
 ```bash
 cd /root/LLaVA-Med
-# 评估概念预测模型
+# Evaluate concept prediction model
 bash evaluate.sh --task concepts --model-path /root/autodl-tmp/model/llava-med-concepts
 
-# 评估疾病分类模型
+# Evaluate disease classification model
 bash evaluate.sh --task disease --model-path /root/autodl-tmp/model/llava-med-disease
 ```
 
-#### 自定义评估参数
+#### Custom Evaluation Parameters
 
-评估脚本支持多种参数自定义，可以根据需要调整：
+The evaluation script supports various parameter customizations:
 
 ```bash
-# 使用完整参数进行评估
+# Run evaluation with full parameters
 bash evaluate.sh --task concepts \
   --lora /path/to/lora/weights \
   --dataset /path/to/test/dataset.json \
@@ -260,86 +260,77 @@ bash evaluate.sh --task concepts \
   --top-p 0.9
 ```
 
-#### 评估结果说明
+#### Evaluation Results
 
-评估完成后，将生成两个JSON文件：
+After evaluation, two JSON files are generated:
 
-1. **主结果文件**（如`concept_evaluation_results.json`或`disease_evaluation_results.json`）：
-   - 总样本数、成功处理数和失败数统计
-   - 评估参数记录（温度、top_p、LoRA路径等）
-   - 各概念/疾病的准确率数据
-   - 错误预测分布统计
+1. **Main results file** (e.g., `concept_evaluation_results.json` or `disease_evaluation_results.json`):
+   - Total sample count, successful and failed processing counts
+   - Evaluation parameter records (temperature, top_p, LoRA path, etc.)
+   - Accuracy data for each concept/disease
+   - Error prediction distribution statistics
 
-2. **预测详情文件**（如`concept_evaluation_results_predictions.json`）：
-   - 每个测试样本的详细预测结果
-   - 预测标签与真实标签的对比
-   - 预测正确性标记
+2. **Prediction details file** (e.g., `concept_evaluation_results_predictions.json`):
+   - Detailed prediction results for each test sample
+   - Comparison of predicted labels vs. ground truth labels
+   - Prediction correctness flags
 
+### 4. Image Inference
 
+LLaVA-Med provides a convenient command-line inference tool supporting single image analysis and batch folder processing:
 
-
-### 4. 图像推理
-
-LLaVA-Med提供了便捷的命令行推理工具，支持单张图像分析和文件夹批量处理：
-
-#### 单张图像概念预测
+#### Single Image Concept Prediction
 ```bash
 cd /root/LLaVA-Med
 ./run_inference.sh --task concepts --image-path /path/to/image.jpg
 ```
 
-#### 单张图像疾病分类
+#### Single Image Disease Classification
 ```bash
 cd /root/LLaVA-Med
 ./run_inference.sh --task disease --image-path /path/to/image.jpg
 ```
 
-#### 单张图像全流程分析（概念+疾病）
+#### Single Image Full Pipeline (Concepts + Disease)
 ```bash
 cd /root/LLaVA-Med
 ./run_inference.sh --task both --image-path /path/to/image.jpg
 ```
 
-**注意：** 在both阶段，疾病分类模型会利用概念阶段的分析结果作为额外输入。系统会自动将概念阶段生成的皮肤病变特征及其解释（包括色素网络、条纹、点和球、蓝白色面纱、退行性结构等）整合到疾病分类的提示词中，以提升疾病诊断的准确性。具体来说，系统会在疾病分类提示中添加："Here are the concepts and their respective rationales:{概念阶段生成的内容}."，使疾病分类能够基于更全面的信息进行分析。
+**Note:** In the both stage, the disease classification model uses the concept stage analysis results as additional input. The system automatically integrates the skin lesion features and their explanations (including pigment network, streaks, dots and globules, blue-whitish veil, regression structures) generated in the concept stage into the disease classification prompt, improving diagnostic accuracy. Specifically, the system adds: "Here are the concepts and their respective rationales:{concept stage output}." to the disease classification prompt, enabling more comprehensive analysis.
 
-#### 文件夹批量处理
+#### Batch Folder Processing
 ```bash
-# 批量处理文件夹中的所有图片
+# Batch process all images in a folder
 cd /root/LLaVA-Med
 ./run_inference.sh --task both --folder-path /path/to/images/folder
 ```
 
-#### 保存结果到文件
+#### Save Results to File
 ```bash
-# 自定义输出文件名
+# Custom output filename
 cd /root/LLaVA-Med
 ./run_inference.sh --task concepts --image-path /path/to/image.jpg --output-file result.json
 ```
 
+## Output Format
 
+### JSON Output Structure
 
-## 输出格式说明
-
-### JSON输出结构
-
-推理结果以结构化JSON格式保存，字段顺序如下：
+Inference results are saved in structured JSON format with the following field order:
 
 ```json
 {
-  "stage": "both",  // 任务类型：concepts, disease 或 both
-  "concepts_model_path": "/root/autodl-tmp/model/llava-med-concepts",  // 概念模型路径
-  "disease_model_path": "/root/autodl-tmp/model/llava-med-disease",    // 疾病模型路径
-  "clip_path": "/root/autodl-tmp/model/clip-vit-large-patch14-336",    // CLIP模型路径
+  "stage": "both",
+  "concepts_model_path": "/root/autodl-tmp/model/llava-med-concepts",
+  "disease_model_path": "/root/autodl-tmp/model/llava-med-disease",
+  "clip_path": "/root/autodl-tmp/model/clip-vit-large-patch14-336",
   "generate_text": {
-    "image_id": {    // 图片ID（无扩展名的文件名）
-      "image_path": "/path/to/image.jpg",  // 图片完整路径
-      "concepts": { ... },  // 概念预测结果（仅concepts和both任务）
-      "disease": { ... }    // 疾病分类结果（仅disease和both任务）
+    "image_id": {
+      "image_path": "/path/to/image.jpg",
+      "concepts": { ... },
+      "disease": { ... }
     }
-    // 多个图片时会有更多条目（文件夹模式）
   }
 }
 ```
-
-
-
