@@ -2,7 +2,18 @@
 
 ## 项目概览
 
-![architecture](/asset/architecture.png)
+![architecture](asset\architecture.png)
+
+## 安装环境
+
+```
+pip install torch==2.1.0+cu121 torchaudio==2.1.0+cu121 torchvision==0.16.0+cu121 \
+    --extra-index-url https://download.pytorch.org/whl/cu121
+    
+pip install -r requirements.txt
+```
+
+------
 
 ## 目录结构
 
