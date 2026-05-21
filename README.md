@@ -2,7 +2,7 @@
 
 ## 项目概览
 
-![architecture](asset\architecture.png)
+![architecture](asset/architecture.png)
 
 ## 安装环境
 
