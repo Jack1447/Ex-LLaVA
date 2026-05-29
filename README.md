@@ -12,9 +12,7 @@ We designed a medical image analysis system based on large language models, focu
 
 ### Demo
 
-<video src="asset/demo.mp4" controls width="100%" height="auto">
-  您的浏览器不支持视频播放，请点击 <a href="https://github.com/Jack1447/Ex-LLaVA/blob/main/asset/demo.mp4">这里</a> 观看。
-</video>
+https://raw.githubusercontent.com/Jack1447/Ex-LLaVA/main/asset/demo.mp4
 
 ## Environment Setup
 
