@@ -10,6 +10,10 @@ We designed a medical image analysis system based on large language models, focu
 
 ![architecture](asset/architecture.png)
 
+### Demo
+
+<video src="D:\Study\Ex-LLaVA\asset\demo.mp4" controls=""></video>
+
 ## Environment Setup
 
 ```
